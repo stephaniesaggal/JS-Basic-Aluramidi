@@ -2,4 +2,4 @@
 
 Aplicação básica e inicial de JavaScript para Front-end.
 
-<img src="/imagens/AluraMidi.png" alt="Aplicação Alura Midi">
+<img src="https://github.com/stephaniesaggal/JS-Basic-Aluramidi/blob/main/images/AluraMidi.png?raw=true" alt="Aplicação Alura Midi">
